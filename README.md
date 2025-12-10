@@ -4,7 +4,7 @@
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=nick6253)
 
 ## ▎🔍 Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-H-Kim&hide=issues&show=prs_merged&show_icons=true)](https://github.com/C-H-Kim/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=C-H-Kim&hide=issues&show=prs_merged&show_icons=true)](https://github.com/C-H-Kim/github-readme-stats)
 
 ## ▎🛠 Tech Stacks
 - **Language**
